@@ -1,0 +1,58 @@
+- generic [ref=e3]:
+  - complementary [ref=e4]:
+    - generic [ref=e6]: 智工考勤后台
+    - navigation [ref=e7]:
+      - list [ref=e8]:
+        - listitem [ref=e9]:
+          - link "工作台" [ref=e10] [cursor=pointer]:
+            - /url: /admin
+            - img [ref=e11]
+            - text: 工作台
+        - listitem [ref=e16]:
+          - link "项目管理" [ref=e17] [cursor=pointer]:
+            - /url: /admin/projects
+            - img [ref=e18]
+            - text: 项目管理
+        - listitem [ref=e20]:
+          - link "员工管理" [ref=e21] [cursor=pointer]:
+            - /url: /admin/employees
+            - img [ref=e22]
+            - text: 员工管理
+        - listitem [ref=e27]:
+          - link "考勤管理" [ref=e28] [cursor=pointer]:
+            - /url: /admin/attendance
+            - img [ref=e29]
+            - text: 考勤管理
+        - listitem [ref=e32]:
+          - link "系统设置" [ref=e33] [cursor=pointer]:
+            - /url: /admin/settings
+            - img [ref=e34]
+            - text: 系统设置
+    - generic [ref=e38]:
+      - generic [ref=e39]:
+        - generic [ref=e40]: 管
+        - generic [ref=e42]: 管理员
+      - button "退出登录" [ref=e43]:
+        - img
+  - generic [ref=e44]:
+    - banner [ref=e45]:
+      - generic [ref=e46]:
+        - generic [ref=e47]: 管理后台
+        - img [ref=e48]
+        - generic [ref=e50]: 员工管理
+      - generic [ref=e51]:
+        - generic [ref=e52]: 管
+        - generic [ref=e53]: 管理员
+    - main [ref=e54]:
+      - generic [ref=e56]:
+        - generic [ref=e57]:
+          - heading "员工管理" [level=2] [ref=e58]
+          - paragraph [ref=e59]: 共 0 名员工，在职 0 人
+        - generic [ref=e60]:
+          - group [ref=e61]:
+            - group [ref=e62]:
+              - img [ref=e63]
+            - textbox "搜索姓名、工种或班组..." [ref=e66]
+          - button "添加员工" [ref=e67]:
+            - img
+            - text: 添加员工

@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    { "id": "P001", "name": "绿地中心二期项目部", "manager": "张建国", "startDate": "2025-05-10", "status": "施工中", "budget": 15000000 },
+    { "id": "P002", "name": "万达广场三期", "manager": "李明", "startDate": "2024-08-15", "status": "已完工", "budget": 28000000 },
+    { "id": "P003", "name": "高新区科技园", "manager": "王强", "startDate": "2023-03-01", "status": "已完工", "budget": 45000000 },
+    { "id": "P004", "name": "地铁6号线标段", "manager": "赵伟", "startDate": "2024-01-20", "status": "维保中", "budget": 32000000 },
+    { "id": "P005", "name": "滨江新城一期", "manager": "刘洋", "startDate": "2026-05-01", "status": "未开工", "budget": 55000000 },
+    { "id": "P006", "name": "市中心商业综合体项目", "manager": "陈刚", "startDate": "2025-11-01", "status": "施工中", "budget": 85000000 }
+  ]
+}

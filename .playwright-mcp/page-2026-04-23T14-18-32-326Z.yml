@@ -1,0 +1,172 @@
+- generic [ref=e47]:
+  - complementary [ref=e48]:
+    - generic [ref=e50]: 智工考勤后台
+    - navigation [ref=e51]:
+      - list [ref=e52]:
+        - listitem [ref=e53]:
+          - link "工作台" [ref=e54] [cursor=pointer]:
+            - /url: /admin
+            - img [ref=e55]
+            - text: 工作台
+        - listitem [ref=e60]:
+          - link "项目管理" [ref=e61] [cursor=pointer]:
+            - /url: /admin/projects
+            - img [ref=e62]
+            - text: 项目管理
+        - listitem [ref=e64]:
+          - link "员工管理" [ref=e65] [cursor=pointer]:
+            - /url: /admin/employees
+            - img [ref=e66]
+            - text: 员工管理
+        - listitem [ref=e71]:
+          - link "考勤管理" [ref=e72] [cursor=pointer]:
+            - /url: /admin/attendance
+            - img [ref=e73]
+            - text: 考勤管理
+        - listitem [ref=e76]:
+          - link "系统设置" [ref=e77] [cursor=pointer]:
+            - /url: /admin/settings
+            - img [ref=e78]
+            - text: 系统设置
+    - generic [ref=e82]:
+      - generic [ref=e83]:
+        - generic [ref=e84]: 管
+        - generic [ref=e86]: 管理员
+      - button "退出登录" [ref=e87]:
+        - img
+  - generic [ref=e88]:
+    - banner [ref=e89]:
+      - generic [ref=e90]:
+        - generic [ref=e91]: 管理后台
+        - img [ref=e92]
+        - generic [ref=e94]: 工作台
+      - generic [ref=e95]:
+        - generic [ref=e96]: 管
+        - generic [ref=e97]: 管理员
+    - main [ref=e98]:
+      - generic [ref=e99]:
+        - generic [ref=e100]:
+          - generic [ref=e101] [cursor=pointer]:
+            - generic [ref=e102]:
+              - generic [ref=e103]: 在建项目
+              - generic [ref=e104]: "3"
+            - img [ref=e106]
+          - generic [ref=e109] [cursor=pointer]:
+            - generic [ref=e110]:
+              - generic [ref=e111]: 今日在岗
+              - generic [ref=e112]: "13"
+            - img [ref=e114]
+          - generic [ref=e119]:
+            - generic [ref=e120]:
+              - generic [ref=e121]: 考勤异常
+              - generic [ref=e122]: "0"
+            - img [ref=e124]
+          - generic [ref=e126]:
+            - generic [ref=e127]:
+              - generic [ref=e128]: 本月工时
+              - generic [ref=e129]: 1,392
+            - img [ref=e131]
+        - generic [ref=e134]:
+          - generic [ref=e135]:
+            - heading "近七日出勤趋势" [level=3] [ref=e137]
+            - img "近七日出勤趋势图" [ref=e139]:
+              - generic [ref=e140]:
+                - generic [ref=e141]: "22"
+                - 'generic "4/17 周五: 22人" [ref=e142]'
+                - generic [ref=e143]: 4/17 周五
+              - generic [ref=e144]:
+                - generic [ref=e145]: "0"
+                - 'generic "4/18 周六: 0人" [ref=e146]'
+                - generic [ref=e147]: 4/18 周六
+              - generic [ref=e148]:
+                - generic [ref=e149]: "6"
+                - 'generic "4/19 周日: 6人" [ref=e150]'
+                - generic [ref=e151]: 4/19 周日
+              - generic [ref=e152]:
+                - generic [ref=e153]: "0"
+                - 'generic "4/20 周一: 0人" [ref=e154]'
+                - generic [ref=e155]: 4/20 周一
+              - generic [ref=e156]:
+                - generic [ref=e157]: "10"
+                - 'generic "4/21 周二: 10人" [ref=e158]'
+                - generic [ref=e159]: 4/21 周二
+              - generic [ref=e160]:
+                - generic [ref=e161]: "10"
+                - 'generic "4/22 周三: 10人" [ref=e162]'
+                - generic [ref=e163]: 4/22 周三
+              - generic [ref=e164]:
+                - generic [ref=e165]: "2"
+                - 'generic "4/23 周四: 2人" [ref=e166]'
+                - generic [ref=e167]: 4/23 周四
+          - generic [ref=e168]:
+            - generic [ref=e169]:
+              - heading "活跃项目" [level=3] [ref=e170]
+              - button "查看全部" [ref=e171]:
+                - text: 查看全部
+                - img
+            - generic [ref=e172]:
+              - generic [ref=e173] [cursor=pointer]:
+                - generic [ref=e174]:
+                  - generic [ref=e175]: 绿地中心二期项目部
+                  - generic [ref=e176]: 张经理
+                - generic [ref=e180]: 65%
+              - generic [ref=e181] [cursor=pointer]:
+                - generic [ref=e182]:
+                  - generic [ref=e183]: 万达广场三期
+                  - generic [ref=e184]: 李经理
+                - generic [ref=e188]: 40%
+              - generic [ref=e189] [cursor=pointer]:
+                - generic [ref=e190]:
+                  - generic [ref=e191]: 碧桂园星河城
+                  - generic [ref=e192]: 赵经理
+                - generic [ref=e196]: 80%
+          - generic [ref=e197]:
+            - heading "待办事项" [level=3] [ref=e199]
+            - generic [ref=e201]: 暂无待办事项
+        - generic [ref=e202]:
+          - heading "项目出勤概览" [level=3] [ref=e204]
+          - table "项目出勤概览" [ref=e207]:
+            - rowgroup [ref=e208]:
+              - row "项目 状态 总人数 出勤 缺勤 加班" [ref=e209]:
+                - columnheader "项目" [ref=e210]
+                - columnheader "状态" [ref=e211]
+                - columnheader "总人数" [ref=e212]
+                - columnheader "出勤" [ref=e213]
+                - columnheader "缺勤" [ref=e214]
+                - columnheader "加班" [ref=e215]
+            - rowgroup [ref=e216]:
+              - row "绿地中心二期项目部 施工中 8 2 6 0" [ref=e217]:
+                - cell "绿地中心二期项目部" [ref=e218]
+                - cell "施工中" [ref=e219]
+                - cell "8" [ref=e220]
+                - cell "2" [ref=e221]
+                - cell "6" [ref=e222]
+                - cell "0" [ref=e223]
+              - row "万达广场三期 施工中 8 0 8 0" [ref=e224]:
+                - cell "万达广场三期" [ref=e225]
+                - cell "施工中" [ref=e226]
+                - cell "8" [ref=e227]
+                - cell "0" [ref=e228]
+                - cell "8" [ref=e229]
+                - cell "0" [ref=e230]
+              - row "高新区科技园 维保中 3 0 3 0" [ref=e231]:
+                - cell "高新区科技园" [ref=e232]
+                - cell "维保中" [ref=e233]
+                - cell "3" [ref=e234]
+                - cell "0" [ref=e235]
+                - cell "3" [ref=e236]
+                - cell "0" [ref=e237]
+              - row "碧桂园星河城 施工中 6 0 6 0" [ref=e238]:
+                - cell "碧桂园星河城" [ref=e239]
+                - cell "施工中" [ref=e240]
+                - cell "6" [ref=e241]
+                - cell "0" [ref=e242]
+                - cell "6" [ref=e243]
+                - cell "0" [ref=e244]
+              - row "中海锦城 已完工 2 0 2 0" [ref=e245]:
+                - cell "中海锦城" [ref=e246]
+                - cell "已完工" [ref=e247]
+                - cell "2" [ref=e248]
+                - cell "0" [ref=e249]
+                - cell "2" [ref=e250]
+                - cell "0" [ref=e251]

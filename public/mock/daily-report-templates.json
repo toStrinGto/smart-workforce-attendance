@@ -1,0 +1,39 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "id": 1,
+      "name": "通用施工日报",
+      "content": "1. 今日完成工作：\n\n2. 明日工作计划：\n\n3. 存在问题及建议：\n",
+      "visibility": "system",
+      "owner": null,
+      "editable": false,
+      "deletable": false,
+      "createdAt": "2026-04-23T09:00:00",
+      "updatedAt": "2026-04-23T09:30:00"
+    },
+    {
+      "id": 2,
+      "name": "安全检查日报",
+      "content": "1. 检查区域：\n\n2. 发现安全隐患：\n\n3. 整改措施及结果：\n",
+      "visibility": "system",
+      "owner": null,
+      "editable": false,
+      "deletable": false,
+      "createdAt": "2026-04-23T09:00:00",
+      "updatedAt": "2026-04-23T09:30:00"
+    },
+    {
+      "id": 3,
+      "name": "材料进场日报",
+      "content": "1. 进场材料名称及数量：\n\n2. 质量验收情况：\n\n3. 存放位置：\n",
+      "visibility": "system",
+      "owner": null,
+      "editable": false,
+      "deletable": false,
+      "createdAt": "2026-04-23T09:00:00",
+      "updatedAt": "2026-04-23T09:30:00"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    { "id": 1, "name": "张三", "team": "木工班组", "project": "绿地中心二期项目部", "status": "present", "time": "07:50", "overtime": 2 },
+    { "id": 2, "name": "李四", "team": "水电班组", "project": "万达广场三期", "status": "present", "time": "07:55", "overtime": 0 },
+    { "id": 3, "name": "王五", "team": "泥瓦班组", "project": "高新区科技园", "status": "absent", "time": null, "overtime": 0, "reason": "请假" },
+    { "id": 4, "name": "赵六", "team": "钢筋班组", "project": "地铁6号线标段", "status": "present", "time": "07:45", "overtime": 1.5 },
+    { "id": 5, "name": "陈七", "team": "木工班组", "project": "绿地中心二期项目部", "status": "present", "time": null, "overtime": 0 },
+    { "id": 6, "name": "周八", "team": "钢筋班组", "project": "万达广场三期", "status": "absent", "time": null, "overtime": 0, "reason": "未打卡" },
+    { "id": 7, "name": "吴九", "team": "泥瓦班组", "project": "高新区科技园", "status": "present", "time": null, "overtime": 3 },
+    { "id": 8, "name": "郑十", "team": "水电班组", "project": "地铁6号线标段", "status": "present", "time": "07:52", "overtime": 1 }
+  ]
+}

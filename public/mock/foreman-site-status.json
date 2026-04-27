@@ -1,0 +1,16 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "projectName": "绿地中心二期项目部",
+    "totalWorkers": 12,
+    "checkedIn": 10,
+    "missing": 2,
+    "photos": [
+      { "id": 1, "name": "张三", "time": "07:50", "pic": "https://picsum.photos/seed/10/200/200" },
+      { "id": 2, "name": "李四", "time": "07:55", "pic": "https://picsum.photos/seed/11/200/200" },
+      { "id": 3, "name": "王五", "time": "08:01", "pic": "https://picsum.photos/seed/12/200/200" },
+      { "id": 4, "name": "赵六", "time": "08:15", "pic": "https://picsum.photos/seed/13/200/200" }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "summary": {
+      "total": 120,
+      "present": 115,
+      "absent": 5,
+      "overtime": 45,
+      "attendanceRate": 95.8
+    },
+    "workers": [
+      { "id": 1, "name": "张三", "role": "木工班组", "presentDays": 22, "overtimeHours": 15 },
+      { "id": 2, "name": "李四", "role": "钢筋班组", "presentDays": 20, "overtimeHours": 8 },
+      { "id": 3, "name": "王五", "role": "泥瓦班组", "presentDays": 24, "overtimeHours": 20 },
+      { "id": 4, "name": "赵六", "role": "水电班组", "presentDays": 21, "overtimeHours": 12 },
+      { "id": 5, "name": "陈七", "role": "油漆班组", "presentDays": 18, "overtimeHours": 5 },
+      { "id": 6, "name": "孙八", "role": "木工班组", "presentDays": 25, "overtimeHours": 18 },
+      { "id": 7, "name": "周九", "role": "钢筋班组", "presentDays": 19, "overtimeHours": 6 }
+    ]
+  }
+}

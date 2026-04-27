@@ -1,0 +1,46 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "summary": {
+      "totalAmount": "125,800",
+      "pendingCount": 12,
+      "approvedCount": 45,
+      "rejectedCount": 3
+    },
+    "projects": [
+      {
+        "id": "P001",
+        "name": "绿地中心二期项目部",
+        "totalAmount": "45,200",
+        "pendingCount": 3,
+        "approvedCount": 15,
+        "percent": 85
+      },
+      {
+        "id": "P002",
+        "name": "万达广场三期",
+        "totalAmount": "38,500",
+        "pendingCount": 5,
+        "approvedCount": 12,
+        "percent": 65
+      },
+      {
+        "id": "P003",
+        "name": "高新区科技园",
+        "totalAmount": "25,600",
+        "pendingCount": 2,
+        "approvedCount": 10,
+        "percent": 45
+      },
+      {
+        "id": "P004",
+        "name": "地铁6号线标段",
+        "totalAmount": "16,500",
+        "pendingCount": 2,
+        "approvedCount": 8,
+        "percent": 30
+      }
+    ]
+  }
+}

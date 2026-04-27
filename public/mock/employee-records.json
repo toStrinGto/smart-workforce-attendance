@@ -1,0 +1,13 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    { "status": "present", "overtime": 2 },
+    { "status": "present", "overtime": 0 },
+    { "status": "absent", "overtime": 0 },
+    { "status": "present", "overtime": 1 },
+    { "status": "present", "overtime": 3 },
+    { "status": "present", "overtime": 0 },
+    { "status": "present", "overtime": 2 }
+  ]
+}

@@ -1,0 +1,116 @@
+
+> react-example@0.0.0 dev
+> vite --port=3000 --host=0.0.0.0 --host 0.0.0.0 --port 3000
+
+
+  [32m[1mVITE[22m v6.4.1[39m  [2mready in [0m[1m552[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://198.18.0.1:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.56.1:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.119.1:[1m3000[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.13:[1m3000[22m/[39m
+[2m17:18:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mprogress.md[22m
+[2m17:18:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mfindings.md[22m
+[2m17:19:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mtask_plan.md[22m
+[2m17:20:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mPROJECT_PLAN_AND_CHANGES.md[22m
+[2m17:23:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:23:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:23:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:23:43[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:23:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:23:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:23:51[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:23:52[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:23:52[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:31:47[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:31:47[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:31:47[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:32:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:32:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:32:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:34:31[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:34:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:34:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:43:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:43:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:43:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:44:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/pages/worker/attendanceStatus.test.ts[22m
+[2m17:44:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:44:03[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:44:21[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/pages/worker/attendanceStatus.test.ts[22m
+[2m17:44:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:44:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:44:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/pages/foreman/attendanceMonthly.test.ts[22m
+[2m17:44:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:44:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:44:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/pages/foreman/attendanceMonthly.test.ts[22m
+[2m17:44:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:44:55[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:45:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/lib/api.test.ts[22m
+[2m17:45:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:45:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:47:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:47:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/types/models.ts[22m
+[2m17:47:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:47:28[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:47:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/admin/Employees.tsx, /src/index.css, /src/pages/boss/ProjectCost.tsx, /src/pages/admin/Dashboard.tsx, /src/pages/admin/Attendance.tsx, /src/pages/foreman/Exceptions.tsx, /src/pages/foreman/Site.tsx, /src/pages/foreman/Workbench.tsx[22m
+[2m17:47:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.err[22m
+[2m17:47:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:47:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:47:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:47:43[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/admin/Employees.tsx, /src/index.css, /src/pages/boss/ProjectCost.tsx, /src/pages/admin/Dashboard.tsx, /src/pages/admin/Attendance.tsx, /src/pages/foreman/Exceptions.tsx, /src/pages/foreman/Site.tsx, /src/pages/foreman/Workbench.tsx[22m
+[2m17:47:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Exceptions.tsx, /src/index.css, /src/pages/foreman/Site.tsx, /src/pages/foreman/Workbench.tsx[22m
+[2m17:48:19[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Exceptions.tsx, /src/index.css, /src/pages/foreman/Site.tsx, /src/pages/foreman/Workbench.tsx[22m
+[2m17:48:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Workbench.tsx, /src/index.css[22m
+[2m17:49:27[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Workbench.tsx, /src/index.css[22m
+[2m17:49:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Attendance.tsx, /src/index.css, /src/pages/worker/Attendance.tsx[22m
+[2m17:49:57[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Attendance.tsx, /src/index.css, /src/pages/worker/Attendance.tsx[22m
+[2m17:50:07[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/worker/Attendance.tsx, /src/index.css[22m
+[2m17:50:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Attendance.tsx, /src/index.css[22m
+[2m17:50:40[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Attendance.tsx, /src/index.css[22m
+[2m17:50:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Attendance.tsx, /src/index.css[22m
+[2m17:52:41[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Attendance.tsx, /src/index.css[22m
+[2m17:53:10[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/boss/EmployeeAttendance.tsx, /src/index.css, /src/pages/boss/ProjectList.tsx, /src/pages/boss/EmployeeDetail.tsx, /src/pages/admin/Employees.tsx, /src/pages/worker/Stats.tsx, /src/pages/boss/ProjectCost.tsx, /src/pages/shared/Workbench.tsx, /src/pages/boss/Home.tsx, /src/pages/worker/Attendance.tsx, /src/pages/boss/Attendance.tsx, /src/pages/worker/Home.tsx, /src/pages/boss/ProjectReimbursementDetail.tsx, /src/pages/boss/ReimbursementOverview.tsx, /src/pages/admin/Dashboard.tsx, /src/pages/boss/Contracts.tsx, /src/pages/boss/IncomeSettlement.tsx, /src/pages/admin/Projects.tsx, /src/pages/shared/Reimbursement.tsx, /src/pages/shared/DailyReport.tsx, /src/pages/boss/ProjectAttendanceDetail.tsx, /src/pages/admin/Attendance.tsx, /src/pages/login/Login.tsx[22m
+[2m17:53:31[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/boss/EmployeeAttendance.tsx, /src/index.css, /src/pages/boss/ProjectList.tsx, /src/pages/boss/EmployeeDetail.tsx, /src/pages/admin/Employees.tsx, /src/pages/worker/Stats.tsx, /src/pages/boss/ProjectCost.tsx, /src/pages/shared/Workbench.tsx, /src/pages/boss/Home.tsx, /src/pages/worker/Attendance.tsx, /src/pages/boss/Attendance.tsx, /src/pages/worker/Home.tsx, /src/pages/boss/ProjectReimbursementDetail.tsx, /src/pages/boss/ReimbursementOverview.tsx, /src/pages/admin/Dashboard.tsx, /src/pages/boss/Contracts.tsx, /src/pages/boss/IncomeSettlement.tsx, /src/pages/admin/Projects.tsx, /src/pages/shared/Reimbursement.tsx, /src/pages/shared/DailyReport.tsx, /src/pages/boss/ProjectAttendanceDetail.tsx, /src/pages/admin/Attendance.tsx, /src/pages/login/Login.tsx[22m
+[2m17:54:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/hooks/useForeman.test.tsx[22m
+[2m17:54:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:54:12[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:56:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mprogress.md[22m
+[2m17:56:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mfindings.md[22m
+[2m17:56:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mtask_plan.md[22m
+[2m17:56:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m17:56:50[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:00:48[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mPROJECT_PLAN_AND_CHANGES.md[22m
+[2m18:00:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:00:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:01:32[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:01:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:01:33[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:01:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:01:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:01:36[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:03:19[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2msrc/hooks/useForeman.test.tsx[22m
+[2m18:03:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:03:20[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:04:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Exceptions.tsx, /src/index.css, /src/pages/foreman/Site.tsx, /src/pages/foreman/Workbench.tsx[22m
+[2m18:04:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:04:10[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:04:10[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:07:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Exceptions.tsx, /src/index.css, /src/pages/foreman/Site.tsx, /src/pages/foreman/Workbench.tsx[22m
+[2m18:07:08[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:07:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:07:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:07:57[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/pages/foreman/Workbench.tsx, /src/index.css[22m
+[2m18:07:57[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:07:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:07:58[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:09:39[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:09:40[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:09:40[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:10:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mprogress.md[22m
+[2m18:10:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mfindings.md[22m
+[2m18:10:04[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mPROJECT_PLAN_AND_CHANGES.md[22m
+[2m18:10:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:10:05[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m
+[2m18:22:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mdev-server.out[22m

@@ -1,0 +1,29 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "summary": {
+      "totalPresent": 438,
+      "presentRate": 95.2,
+      "totalOvertime": 155,
+      "overtimeGrowth": 12,
+      "monthlyHours": 76800
+    },
+    "projects": [
+      { "id": 1, "name": "绿地中心二期项目部", "total": 120, "present": 115, "absent": 5, "overtime": 45, "status": "施工中" },
+      { "id": 2, "name": "万达广场三期", "total": 85, "present": 80, "absent": 5, "overtime": 20, "status": "结算中" },
+      { "id": 3, "name": "高新区科技园", "total": 45, "present": 45, "absent": 0, "overtime": 10, "status": "已完成" },
+      { "id": 4, "name": "地铁6号线标段", "total": 210, "present": 198, "absent": 12, "overtime": 80, "status": "维保中" },
+      { "id": 5, "name": "滨江新城一期", "total": 0, "present": 0, "absent": 0, "overtime": 0, "status": "未开工" }
+    ],
+    "dailyTrend": [
+      { "date": "2026-04-11", "count": 415, "label": "4/11 周五" },
+      { "date": "2026-04-12", "count": 42,  "label": "4/12 周六" },
+      { "date": "2026-04-13", "count": 38,  "label": "4/13 周日" },
+      { "date": "2026-04-14", "count": 425, "label": "4/14 周一" },
+      { "date": "2026-04-15", "count": 432, "label": "4/15 周二" },
+      { "date": "2026-04-16", "count": 430, "label": "4/16 周三" },
+      { "date": "2026-04-17", "count": 438, "label": "4/17 周四" }
+    ]
+  }
+}

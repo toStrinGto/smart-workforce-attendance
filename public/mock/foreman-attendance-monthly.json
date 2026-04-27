@@ -1,0 +1,28 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "2026-04-01": { "status": "normal", "in": "07:45", "out": "18:15", "pic": "https://picsum.photos/seed/fa1/200/200" },
+    "2026-04-02": { "status": "normal", "in": "07:49", "out": "18:20", "pic": "https://picsum.photos/seed/fa2/200/200" },
+    "2026-04-03": { "status": "late", "in": "09:08", "out": "18:10", "pic": "https://picsum.photos/seed/fa3/200/200", "reason": "班组签到偏晚" },
+    "2026-04-06": { "status": "normal", "in": "07:42", "out": "18:30", "pic": "https://picsum.photos/seed/fa4/200/200" },
+    "2026-04-07": { "status": "normal", "in": "07:44", "out": "18:05", "pic": "https://picsum.photos/seed/fa5/200/200" },
+    "2026-04-08": { "status": "missing", "in": "07:50", "out": null, "pic": "https://picsum.photos/seed/fa6/200/200", "reason": "2 人缺下班卡" },
+    "2026-04-09": { "status": "normal", "in": "07:52", "out": "18:00", "pic": "https://picsum.photos/seed/fa7/200/200" },
+    "2026-04-10": { "status": "early_leave", "in": "07:47", "out": "15:45", "pic": "https://picsum.photos/seed/fa8/200/200", "reason": "1 人早退" },
+    "2026-04-13": { "status": "normal", "in": "07:46", "out": "18:25", "pic": "https://picsum.photos/seed/fa9/200/200" },
+    "2026-04-14": { "status": "normal", "in": "07:41", "out": "19:10", "pic": "https://picsum.photos/seed/fa10/200/200" },
+    "2026-04-15": { "status": "normal", "in": "07:53", "out": "18:15", "pic": "https://picsum.photos/seed/fa11/200/200" },
+    "2026-04-16": { "status": "normal", "in": "07:48", "out": "18:08", "pic": "https://picsum.photos/seed/fa12/200/200" },
+    "2026-04-17": { "status": "late", "in": "09:20", "out": "18:00", "pic": "https://picsum.photos/seed/fa13/200/200", "reason": "材料进场等待" },
+    "2026-04-20": { "status": "normal", "in": "07:43", "out": "18:25", "pic": "https://picsum.photos/seed/fa14/200/200" },
+    "2026-04-21": { "status": "missing", "in": "07:50", "out": null, "pic": "https://picsum.photos/seed/fa15/200/200", "reason": "2 人未完成签退" },
+    "2026-04-22": { "status": "normal", "in": "07:48", "out": "18:30", "pic": "https://picsum.photos/seed/fa16/200/200" },
+    "2026-04-23": { "status": "normal", "in": "07:54", "out": "18:10", "pic": "https://picsum.photos/seed/fa17/200/200" },
+    "2026-04-24": { "status": "normal", "in": "07:50", "out": "18:00", "pic": "https://picsum.photos/seed/fa18/200/200" },
+    "2026-04-27": { "status": "normal", "in": "07:47", "out": "18:15", "pic": "https://picsum.photos/seed/fa19/200/200" },
+    "2026-04-28": { "status": "missing", "in": null, "out": null, "pic": null, "reason": "班组未提交当天签到" },
+    "2026-04-29": { "status": "normal", "in": "07:52", "out": "18:05", "pic": "https://picsum.photos/seed/fa20/200/200" },
+    "2026-04-30": { "status": "normal", "in": "07:49", "out": "18:20", "pic": "https://picsum.photos/seed/fa21/200/200" }
+  }
+}

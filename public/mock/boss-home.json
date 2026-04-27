@@ -1,0 +1,23 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "briefing": {
+      "incomeContract": "45.2M",
+      "incomeSettlement": "38.5M",
+      "collectionAmount": "32.1M",
+      "invoiceAmount": "35.0M"
+    },
+    "projects": {
+      "activeCount": 12,
+      "invoicedUncollected": "2.9M",
+      "paidUninvoiced": "1.5M",
+      "pendingRepayment": "850K"
+    },
+    "reimbursements": [
+      { "name": "绿地中心二期项目部", "amount": "45,200", "count": 12, "percent": 85 },
+      { "name": "万达广场三期", "amount": "28,500", "count": 8, "percent": 60 },
+      { "name": "高新区科技园", "amount": "12,300", "count": 3, "percent": 30 }
+    ]
+  }
+}

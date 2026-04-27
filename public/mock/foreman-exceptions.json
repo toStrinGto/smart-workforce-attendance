@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    { "id": 1, "name": "张三", "date": "2026-03-22", "reason": "缺下班卡", "status": "pending" },
+    { "id": 2, "name": "李四", "date": "2026-03-21", "reason": "迟到", "status": "pending" },
+    { "id": 3, "name": "王五", "date": "2026-03-20", "reason": "缺上班卡", "status": "handled" }
+  ]
+}

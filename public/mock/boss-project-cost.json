@@ -1,0 +1,116 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "1": {
+      "attendance": [
+        { "workerId": 1, "date": "2026-04-01", "dayShift": 1, "overtimeHours": 2 },
+        { "workerId": 1, "date": "2026-04-02", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 1, "date": "2026-04-03", "dayShift": 1, "overtimeHours": 1.5 },
+        { "workerId": 1, "date": "2026-04-06", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 1, "date": "2026-04-07", "dayShift": 0, "overtimeHours": 0 },
+        { "workerId": 1, "date": "2026-04-08", "dayShift": 1, "overtimeHours": 3 },
+        { "workerId": 1, "date": "2026-04-09", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 1, "date": "2026-04-10", "dayShift": 1, "overtimeHours": 2 },
+        { "workerId": 1, "date": "2026-04-13", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 1, "date": "2026-04-14", "dayShift": 1, "overtimeHours": 1 },
+        { "workerId": 1, "date": "2026-04-15", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 1, "date": "2026-04-16", "dayShift": 1, "overtimeHours": 2.5 },
+        { "workerId": 1, "date": "2026-04-17", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 1, "date": "2026-04-20", "dayShift": 1, "overtimeHours": 1 },
+        { "workerId": 1, "date": "2026-04-21", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 5, "date": "2026-04-01", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 5, "date": "2026-04-02", "dayShift": 1, "overtimeHours": 1 },
+        { "workerId": 5, "date": "2026-04-03", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 5, "date": "2026-04-06", "dayShift": 1, "overtimeHours": 2 },
+        { "workerId": 5, "date": "2026-04-07", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 5, "date": "2026-04-08", "dayShift": 0, "overtimeHours": 0 },
+        { "workerId": 5, "date": "2026-04-09", "dayShift": 1, "overtimeHours": 1.5 },
+        { "workerId": 5, "date": "2026-04-10", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 5, "date": "2026-04-13", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 5, "date": "2026-04-14", "dayShift": 1, "overtimeHours": 3 },
+        { "workerId": 5, "date": "2026-04-15", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 5, "date": "2026-04-16", "dayShift": 1, "overtimeHours": 1 },
+        { "workerId": 5, "date": "2026-04-17", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 5, "date": "2026-04-20", "dayShift": 1, "overtimeHours": 2 },
+        { "workerId": 5, "date": "2026-04-21", "dayShift": 1, "overtimeHours": 0 }
+      ],
+      "reimbursements": [
+        { "id": 1, "amount": 2500, "description": "木材采购", "date": "2026-04-05" },
+        { "id": 2, "amount": 800, "description": "交通费", "date": "2026-04-12" },
+        { "id": 3, "amount": 1200, "description": "工具维修", "date": "2026-04-18" }
+      ],
+      "workers": [
+        { "id": 1, "name": "张三", "role": "木工", "avatar": "张", "dailyWage": 350 },
+        { "id": 5, "name": "陈七", "role": "木工", "avatar": "陈", "dailyWage": 300 }
+      ]
+    },
+    "2": {
+      "attendance": [
+        { "workerId": 2, "date": "2026-04-01", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 2, "date": "2026-04-02", "dayShift": 1, "overtimeHours": 1 },
+        { "workerId": 2, "date": "2026-04-03", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 2, "date": "2026-04-06", "dayShift": 1, "overtimeHours": 2 },
+        { "workerId": 2, "date": "2026-04-07", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 2, "date": "2026-04-08", "dayShift": 1, "overtimeHours": 1.5 },
+        { "workerId": 2, "date": "2026-04-09", "dayShift": 0, "overtimeHours": 0 },
+        { "workerId": 2, "date": "2026-04-10", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 2, "date": "2026-04-13", "dayShift": 1, "overtimeHours": 3 },
+        { "workerId": 2, "date": "2026-04-14", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 2, "date": "2026-04-15", "dayShift": 1, "overtimeHours": 1 },
+        { "workerId": 2, "date": "2026-04-16", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 2, "date": "2026-04-17", "dayShift": 1, "overtimeHours": 2 },
+        { "workerId": 2, "date": "2026-04-20", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 2, "date": "2026-04-21", "dayShift": 1, "overtimeHours": 1.5 },
+        { "workerId": 4, "date": "2026-04-01", "dayShift": 1, "overtimeHours": 1.5 },
+        { "workerId": 4, "date": "2026-04-02", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 4, "date": "2026-04-03", "dayShift": 1, "overtimeHours": 2 },
+        { "workerId": 4, "date": "2026-04-06", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 4, "date": "2026-04-07", "dayShift": 1, "overtimeHours": 1 },
+        { "workerId": 4, "date": "2026-04-08", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 4, "date": "2026-04-09", "dayShift": 1, "overtimeHours": 3 },
+        { "workerId": 4, "date": "2026-04-10", "dayShift": 0, "overtimeHours": 0 },
+        { "workerId": 4, "date": "2026-04-13", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 4, "date": "2026-04-14", "dayShift": 1, "overtimeHours": 2 },
+        { "workerId": 4, "date": "2026-04-15", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 4, "date": "2026-04-16", "dayShift": 1, "overtimeHours": 1.5 },
+        { "workerId": 4, "date": "2026-04-17", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 4, "date": "2026-04-20", "dayShift": 1, "overtimeHours": 1 },
+        { "workerId": 4, "date": "2026-04-21", "dayShift": 1, "overtimeHours": 0 }
+      ],
+      "reimbursements": [
+        { "id": 4, "amount": 3200, "description": "水电材料", "date": "2026-04-03" },
+        { "id": 5, "amount": 600, "description": "安全用品", "date": "2026-04-15" }
+      ],
+      "workers": [
+        { "id": 2, "name": "李四", "role": "钢筋工", "avatar": "李", "dailyWage": 320 },
+        { "id": 4, "name": "赵六", "role": "钢筋工", "avatar": "赵", "dailyWage": 340 }
+      ]
+    },
+    "3": {
+      "attendance": [
+        { "workerId": 3, "date": "2026-04-01", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 3, "date": "2026-04-02", "dayShift": 0, "overtimeHours": 0 },
+        { "workerId": 3, "date": "2026-04-03", "dayShift": 1, "overtimeHours": 2 },
+        { "workerId": 3, "date": "2026-04-06", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 3, "date": "2026-04-07", "dayShift": 1, "overtimeHours": 1 },
+        { "workerId": 3, "date": "2026-04-08", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 3, "date": "2026-04-09", "dayShift": 1, "overtimeHours": 3 },
+        { "workerId": 3, "date": "2026-04-10", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 3, "date": "2026-04-13", "dayShift": 0, "overtimeHours": 0 },
+        { "workerId": 3, "date": "2026-04-14", "dayShift": 1, "overtimeHours": 1.5 },
+        { "workerId": 3, "date": "2026-04-15", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 3, "date": "2026-04-16", "dayShift": 1, "overtimeHours": 2 },
+        { "workerId": 3, "date": "2026-04-17", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 3, "date": "2026-04-20", "dayShift": 1, "overtimeHours": 0 },
+        { "workerId": 3, "date": "2026-04-21", "dayShift": 1, "overtimeHours": 1 }
+      ],
+      "reimbursements": [
+        { "id": 6, "amount": 1800, "description": "水泥沙石", "date": "2026-04-08" }
+      ],
+      "workers": [
+        { "id": 3, "name": "王五", "role": "泥瓦工", "avatar": "王", "dailyWage": 280 }
+      ]
+    }
+  }
+}

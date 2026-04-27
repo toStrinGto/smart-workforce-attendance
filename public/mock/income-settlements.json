@@ -1,0 +1,30 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    {
+      "id": "INC-SET-1711240001",
+      "payer": "城建集团第一分公司",
+      "project": "市中心商业综合体项目",
+      "entryTime": "2026-03-20",
+      "billingPeriod": "2026年2月",
+      "category": "进度款",
+      "amount": 500000,
+      "taxRate": 9,
+      "totalAmount": 545000,
+      "attachments": ["2月进度确认单.pdf", "增值税专用发票.jpg"]
+    },
+    {
+      "id": "INC-SET-1711240002",
+      "payer": "高新园区管委会",
+      "project": "高新区道路拓宽工程",
+      "entryTime": "2026-03-15",
+      "billingPeriod": "2026年1月",
+      "category": "结算款",
+      "amount": 1200000,
+      "taxRate": 3,
+      "totalAmount": 1236000,
+      "attachments": ["竣工结算书.pdf"]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "summary": {
+      "pendingAmount": 120.50,
+      "reimbursedAmount": 560.00
+    },
+    "history": [
+      { "id": 1, "applicant": "我", "date": "2026-03-21", "type": "材料费", "amount": 560.00, "reason": "购买工地急需的五金配件", "status": "已打款" },
+      { "id": 2, "applicant": "我", "date": "2026-03-20", "type": "交通费", "amount": 120.50, "reason": "前往项目B区打车费用", "status": "审批中" },
+      { "id": 3, "applicant": "我", "date": "2026-03-18", "type": "餐饮费", "amount": 300.00, "reason": "班组加班聚餐", "status": "已驳回" }
+    ]
+  }
+}

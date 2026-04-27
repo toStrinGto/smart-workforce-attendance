@@ -1,0 +1,60 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "projectName": "绿地中心二期项目部",
+    "summary": {
+      "totalAmount": "45,200",
+      "pendingAmount": "5,200",
+      "approvedAmount": "40,000"
+    },
+    "categories": [
+      { "name": "材料采购", "amount": "25,000", "percent": 55 },
+      { "name": "机械租赁", "amount": "12,000", "percent": 26 },
+      { "name": "差旅交通", "amount": "5,000", "percent": 11 },
+      { "name": "餐饮招待", "amount": "3,200", "percent": 8 }
+    ],
+    "recentRecords": [
+      {
+        "id": "R001",
+        "applicant": "张建国",
+        "category": "材料采购",
+        "amount": "3,500",
+        "date": "2026-03-23",
+        "status": "pending",
+        "reason": "购买二期工程所需的钢筋和水泥，共计3.5吨。",
+        "images": ["https://picsum.photos/seed/receipt1/400/400"]
+      },
+      {
+        "id": "R002",
+        "applicant": "李明",
+        "category": "机械租赁",
+        "amount": "1,700",
+        "date": "2026-03-22",
+        "status": "pending",
+        "reason": "租赁挖掘机2天，用于基坑挖掘作业。",
+        "images": ["https://picsum.photos/seed/receipt2/400/400", "https://picsum.photos/seed/receipt3/400/400"]
+      },
+      {
+        "id": "R003",
+        "applicant": "王大锤",
+        "category": "餐饮招待",
+        "amount": "800",
+        "date": "2026-03-20",
+        "status": "approved",
+        "reason": "招待甲方监理团队午餐。",
+        "images": []
+      },
+      {
+        "id": "R004",
+        "applicant": "张建国",
+        "category": "材料采购",
+        "amount": "12,000",
+        "date": "2026-03-18",
+        "status": "approved",
+        "reason": "采购脚手架及安全网一批。",
+        "images": ["https://picsum.photos/seed/receipt4/400/400"]
+      }
+    ]
+  }
+}

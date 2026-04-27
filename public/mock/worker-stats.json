@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": {
+    "normalDays": 22,
+    "overtimeHours": 18.5,
+    "abnormalDays": 2,
+    "totalEarnings": 8650
+  }
+}

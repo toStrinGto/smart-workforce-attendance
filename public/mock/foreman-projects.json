@@ -1,0 +1,9 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    { "id": 1, "name": "绿地中心二期项目部", "team": "木工班组", "count": 12 },
+    { "id": 2, "name": "万达广场三期", "team": "泥瓦班组", "count": 8 },
+    { "id": 3, "name": "高新区科技园", "team": "水电班组", "count": 5 }
+  ]
+}

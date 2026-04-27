@@ -1,0 +1,14 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    { "id": 1, "name": "张三", "role": "木工", "avatar": "张", "phone": "13800001001", "team": "木工班组", "dailyWage": 350, "status": "active" },
+    { "id": 2, "name": "李四", "role": "钢筋工", "avatar": "李", "phone": "13800001002", "team": "钢筋班组", "dailyWage": 380, "status": "active" },
+    { "id": 3, "name": "王五", "role": "泥瓦工", "avatar": "王", "phone": "13800001003", "team": "泥瓦班组", "dailyWage": 320, "status": "active" },
+    { "id": 4, "name": "赵六", "role": "水电工", "avatar": "赵", "phone": "13800001004", "team": "水电班组", "dailyWage": 400, "status": "active" },
+    { "id": 5, "name": "孙七", "role": "普工", "avatar": "孙", "phone": "13800001005", "team": "普工班组", "dailyWage": 260, "status": "inactive" },
+    { "id": 6, "name": "周八", "role": "焊工", "avatar": "周", "phone": "13800001006", "team": "钢筋班组", "dailyWage": 420, "status": "active" },
+    { "id": 7, "name": "吴九", "role": "架子工", "avatar": "吴", "phone": "13800001007", "team": "架子工班组", "dailyWage": 450, "status": "active" },
+    { "id": 8, "name": "郑十", "role": "油漆工", "avatar": "郑", "phone": "13800001008", "team": "装修班组", "dailyWage": 360, "status": "active" }
+  ]
+}

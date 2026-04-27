@@ -1,0 +1,20 @@
+- generic [ref=e3]:
+  - generic [ref=e9]:
+    - img [ref=e11]
+    - heading "智工考勤" [level=1] [ref=e16]
+    - paragraph [ref=e17]: 智慧工地考勤管理系统
+    - generic [ref=e18]:
+      - generic [ref=e21]: 实时考勤打卡，精准记录工时
+      - generic [ref=e24]: 多角色协作，班组长/老板/管理员全流程管理
+      - generic [ref=e27]: 数据可视化，项目成本一目了然
+  - generic [ref=e31]:
+    - heading "账号登录" [level=2] [ref=e32]
+    - generic [ref=e33]:
+      - img [ref=e34]
+      - textbox "请输入手机号" [ref=e36]
+    - generic [ref=e37]:
+      - img [ref=e38]
+      - textbox "请输入密码" [ref=e41]
+      - button "显示密码" [ref=e42]:
+        - img [ref=e43]
+    - button "登录" [ref=e46]

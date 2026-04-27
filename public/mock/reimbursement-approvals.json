@@ -1,0 +1,8 @@
+{
+  "code": 200,
+  "message": "success",
+  "data": [
+    { "id": 101, "applicant": "张三", "role": "木工班组长", "date": "2026-03-22", "type": "材料费", "amount": 1500.00, "reason": "购买木工板材", "status": "待审批" },
+    { "id": 102, "applicant": "李四", "role": "水电班组长", "date": "2026-03-21", "type": "交通费", "amount": 350.00, "reason": "去建材市场打车", "status": "待审批" }
+  ]
+}
